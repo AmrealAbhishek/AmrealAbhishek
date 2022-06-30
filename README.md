@@ -4,6 +4,8 @@
          width="45" />  I'm Abhishek Kumar</h1>
 <h5 align="center">
 <h3 align="center">A passionate frontend developer and Cyberpunk.</h3>
+         
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrealabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="amrealabhishek" /> </p>
 
