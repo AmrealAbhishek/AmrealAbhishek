@@ -1,3 +1,4 @@
+
 <h1 align="center">Hello! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" 
          alt="Waving "
          height="45"
@@ -33,9 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrealabhishek&show_icons=true&locale=en&layout=compact" alt="amrealabhishek" /></p>
 
-<br />
-<br /><br /><br /><br /><br /><br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrealabhishek&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrealabhishek&show_icons=true&locale=en" alt="amrealabhishek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrealabhishek&" alt="amrealabhishek" /></p>
