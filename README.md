@@ -37,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrealabhishek&show_icons=true&locale=en" alt="amrealabhishek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrealabhishek&" alt="amrealabhishek" /></p>
+
+         
+![snake gif](https://github.com/amrealabhishek/amrealabhishek/blob/output/github-contribution-grid-snake.gif)   
